@@ -51,11 +51,11 @@ Enter your OpenAI API key when prompted or ensure it is set in the .env file.
 Enter the experience you are looking for in the textbox.
 Upload the resume files you want to analyze (PDF or DOCX format).
 The application will process the resumes and display the suitable candidates based on the experience query.
-###License
+### License
 ```bash
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
-###Contributing
+### Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
